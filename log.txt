@@ -1,0 +1,5 @@
+commit 932a395fea7c3bcf79965651da4de264d36bbb68
+Author: Luciel Hibon <luciel.hibon@epitech.eu>
+Date:   Mon Nov 17 14:39:44 2025 +0100
+
+    Ex_05
